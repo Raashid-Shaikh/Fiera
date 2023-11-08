@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T21:52:28Z" name="Suite" finished-at="2023-11-08T21:54:24Z" duration-ms="116324">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T21:52:28Z" name="Test" finished-at="2023-11-08T21:54:24Z" duration-ms="116324">
+      <class name="test.ShopTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.ShopTest@2e11485]" started-at="2023-11-08T21:52:28Z" name="setUp" finished-at="2023-11-08T21:53:48Z" duration-ms="80388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddProduct()[pri:0, instance:test.ShopTest@2e11485]" started-at="2023-11-08T21:53:48Z" name="AddProduct" finished-at="2023-11-08T21:54:00Z" duration-ms="11485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.ShopTest@2e11485]" started-at="2023-11-08T21:54:00Z" name="tearDown" finished-at="2023-11-08T21:54:01Z" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.ShopTest -->
+      <class name="test.LandingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.LandingTest@60dce7ea]" started-at="2023-11-08T21:54:01Z" name="setUp" finished-at="2023-11-08T21:54:05Z" duration-ms="4500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navClick()[pri:0, instance:test.LandingTest@60dce7ea]" started-at="2023-11-08T21:54:05Z" name="navClick" finished-at="2023-11-08T21:54:23Z" duration-ms="18057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navClick -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.LandingTest@60dce7ea]" started-at="2023-11-08T21:54:23Z" name="tearDown" finished-at="2023-11-08T21:54:24Z" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.LandingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
